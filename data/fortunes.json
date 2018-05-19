@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "message": "Love is around the corner.",
+        "lucky_number": 12,
+        "spirit_animal": "Dog"
+    },
+    {
+        "id": 2,
+        "message": "You will find a great treasure",
+        "lucky_number": 15,
+        "spirit_animal": "Lion"
+    },
+    {
+        "id": 3,
+        "message": "World Peace.",
+        "lucky_number": 8,
+        "spirit_animal": "Dove"
+    },
+    {
+        "id": 4,
+        "message": "Knowledge is nothing without action",
+        "lucky_number": 13,
+        "spirit_animal": "Giraffe"
+    },
+    {
+        "id": 5,
+        "message": "Work Hard",
+        "spirit_animal": "Deer"
+    },
+    {
+        "id": 6,
+        "message": "Work Hard",
+        "spirit_animal": "Deer"
+    }
+]
